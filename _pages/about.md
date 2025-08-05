@@ -79,27 +79,103 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 - *2024.02*: &nbsp;🎉 One paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity](https://arxiv.org/pdf/2506.12389)
+[MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290)
 
-**Zhiyuan Su**, Sunhao Dai, Xiao Zhang
+**Weilun Feng**, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
 
-- *Accepted at ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025* <span class="rucred">Oral</span>
-- [**<span style="color:#548656">Watch our promotional video on YouTube!</span>**](https://www.youtube.com/watch?v=lATSWn7t_Xc)
+- *Arxiv Preprint*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition](https://www.nature.com/articles/s41597-025-05522-7)
+
+Yanling Zhang, Wanhui Sun, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng**, Wenjing Tang, Yongjun Xu
+
+- *Accepted at Scientific Data*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers](https://arxiv.org/abs/2505.22167)
+
+**Weilun Feng**, Chuanguang Yang, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno
+
+- *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning](https://openreview.net/forum?id=CuASYs6XZW)
+
+Xiangqi Li, Libo Huang, Zhulin An, **Weilun Feng**, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu
+
+- *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Multi-party Collaborative Attention Control for Image Customization](https://arxiv.org/abs/2505.01428)
+
+Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Yongjun Xu
+
+- *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2025* <span class="rucred">Poster</span>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models](https://arxiv.org/abs/2412.11549)
+
+**Weilun Feng**, Haotong Qin, Chuanguang Yang, Zhulin An, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno
+
+- *Accepted at Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A) 2025* <span class="rucred">Oral</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Context-Aware Framework for Integrating Ad Auctions and Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ)
+[Relational Diffusion Distillation for Efficient Image Generation](https://arxiv.org/abs/2410.07679)
 
-Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
+**Weilun Feng**, Chuanguang Yang, Zhulin An, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu
 
-- *Accepted at ACM The Web Conference (WWW) 2025* <span class="rucred">Poster</span>
+- *Accepted at Proceedings of the 32nd ACM international conference on multimedia (ACM MM, CCF-A) 2025* <span class="rucred">Oral</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector_CVPR_2024_paper.html)
+
+Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
+
+- *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2024* <span class="rucred">Poster</span>
 
 </div>
 </div>
