@@ -65,22 +65,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhiyuan Su. I am currently a **senior** undergraduate at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03). Now I am also a visiting research student at [Dalhousie University](https://www.dal.ca/) (2025.07 -- 2025.10), sponsored by [Mitacs, Canada](https://www.mitacs.ca/).
+Hi, I am Weilun Feng. I am currently a **master** student at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/) (2024.9 -- now). I obtained my B.E. degree from Shen Yuan Honors College, Beihang University (2020.9 -- 2024.7).
 
-My research interests focus on **reinforcement learning, online learning, continual learning, recommender system, and computational advertising**. In addition, I am also interested in board application of AI models. Recently, I am focusing on:  
-(1) sequential bidding ranking algorithms;  
-(2) controllable model editing in generative recommendation.  
-My research aims to build **intelligent systems that are elegant in theory and effective in practice**, and provide credible solutions to the urgent needs of contemporary society.
+My research interests focus on **efficient machine learning**. Specifically, I focus on deep model compression (e.g., binarization, quantization, and distillation), efficient generative models (e.g., efficient large language models and diffusion models). 
 
 
 # 🔥 News
-- *2025.07.08*: &nbsp;🎉 Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!
-- *2025.06.30*: &nbsp;🎉 Received the presidential scholarship of **40,000 CNY** for being an outstanding exchange student at UC Davis.
-- *2025.05.15*: &nbsp;🎉 A paper about clustering of neural bandits was accepted by **KDD 2025 Research Track**. Congratulations to myself on my **first first-author paper**!
-- *2025.03.25*: &nbsp;🎉 Completed Global Study Program at UC Davis and achieved **Academic Perfection**.
-- *2025.02.03*: &nbsp;🎉 A paper about intergrating ad auctions and recommendations was accepted by **WWW 2025**. Congratulations to myself!
-- *2024.12.10*: &nbsp;🎉 Admitted to the Mitacs Globalink Research Internship **full-scholarship** summer research program.
-
+- *2025.07*: &nbsp;🎉 One paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
+- *2025.05*: &nbsp;🎉 One first-author paper and one co-author paper were accepted by **ICML 2025**.
+- *2025.02*: &nbsp;🎉 One paper was accepted by **CVPR 2025**.
+- *2025.01*: &nbsp;🎉 One first-author paper was accepted by **AAAI 2025** *(Oral)*.
+- *2024.07*: &nbsp;🎉 One first-author paper was accepted by **ACM MM 2025** *(Oral)*.
+- *2024.02*: &nbsp;🎉 One paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
