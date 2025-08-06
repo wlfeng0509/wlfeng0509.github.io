@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weilun Feng 冯伟伦"
-description              : "\"Everything that rises must converge.\""
+description              : # "\"Everything that rises must converge.\""
 repository               : "wlfeng0509/wlfeng0509.github.io"
 google_scholar_stats_use_cdn : true
 
