@@ -15,14 +15,5 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
-
   - title: "Services"
     url: "/#-services"
-
-  - title: "Beyond Academics"
-    url: "/#-beyond-academics"
-
-  - title: "Visitor Map"
-    url: "/#-visitor-map"
