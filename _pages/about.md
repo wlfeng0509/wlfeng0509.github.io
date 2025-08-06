@@ -186,7 +186,7 @@ Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
 - *2024.07*: &nbsp;🎖 Outstanding graduates of Beihang University
 
 # 📖 Educations
-- *2024.09 – Present*: &nbsp;🇺🇸 **Institute of Computing Technology, Chinese Academy of Sciences**
+- *2024.09 – Present*: &nbsp;🇨🇳 **Institute of Computing Technology, Chinese Academy of Sciences**
   
   *- Major: Computer Science and Technology*
 
