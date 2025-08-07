@@ -79,6 +79,22 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 - *2024.02*: &nbsp;🎉 One paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/s2q_vdit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016)
+
+**Weilun Feng**, Haotong Qin, Chuanguang Yang1, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An1, Libo Huang, Michele Magno, Yongjun Xu
+
+- *Arxiv Preprint*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='../images/tcmp_300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
