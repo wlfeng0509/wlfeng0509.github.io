@@ -92,9 +92,6 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='../images/tcmp_300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
