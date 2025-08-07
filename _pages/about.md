@@ -84,7 +84,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
   
 [S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016)
 
-**Weilun Feng**, Haotong Qin, Chuanguang Yang1, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An1, Libo Huang, Michele Magno, Yongjun Xu
+**Weilun Feng**, Haotong Qin, Chuanguang Yang, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An, Libo Huang, Michele Magno, Yongjun Xu
 
 - *Arxiv Preprint*
 
