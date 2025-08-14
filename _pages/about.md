@@ -71,12 +71,12 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉 One paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
+- *2025.07*: &nbsp;🎉 One co-author paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
 - *2025.05*: &nbsp;🎉 One first-author paper and one co-author paper were accepted by **ICML 2025**.
-- *2025.02*: &nbsp;🎉 One paper was accepted by **CVPR 2025**.
-- *2025.01*: &nbsp;🎉 One first-author paper was accepted by **AAAI 2025** *(Oral)*.
-- *2024.07*: &nbsp;🎉 One first-author paper was accepted by **ACM MM 2025** *(Oral)*.
-- *2024.02*: &nbsp;🎉 One paper was accepted by **CVPR 2024**.
+- *2025.02*: &nbsp;🎉 One co-author paper was accepted by **CVPR 2025**.
+- *2025.01*: &nbsp;🎉 One first-author paper was accepted by **AAAI 2025** *(Oral, top 4.63%)*.
+- *2024.07*: &nbsp;🎉 One first-author paper was accepted by **ACM MM 2025** *(Oral, top 3.97%)*.
+- *2024.02*: &nbsp;🎉 One co-author paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/s2q_vdit.png' alt="sym" width="100%"></div></div>
