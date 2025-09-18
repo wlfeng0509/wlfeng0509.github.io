@@ -71,6 +71,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One first-author paper was accepted by **NeurIPS 2025**.
 - *2025.07*: &nbsp;🎉 One co-author paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
 - *2025.05*: &nbsp;🎉 One first-author paper and one co-author paper were accepted by **ICML 2025**.
 - *2025.02*: &nbsp;🎉 One co-author paper was accepted by **CVPR 2025**.
@@ -79,14 +80,14 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 - *2024.02*: &nbsp;🎉 One co-author paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/s2q_vdit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/s2q_vdit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016)
 
 **Weilun Feng**, Haotong Qin, Chuanguang Yang, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An, Libo Huang, Michele Magno, Yongjun Xu
 
-- *Arxiv Preprint*
+- *Accepted at Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2025* <span class="rucred">Poster</span>
 
 </div>
 </div>
