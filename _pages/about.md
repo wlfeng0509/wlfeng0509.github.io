@@ -170,7 +170,7 @@ Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='../images/rdd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/rdd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Relational Diffusion Distillation for Efficient Image Generation](https://arxiv.org/abs/2410.07679)
