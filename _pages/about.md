@@ -240,5 +240,6 @@ Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
 
 
 # 💼 Services
-- 
+- Computer Vision and Pattern Recognition (CVPR) 2026 Reviewer
+- International Conference on Learning Representations (ICLR) 2026 Reviewer
 
