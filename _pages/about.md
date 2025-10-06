@@ -80,6 +80,35 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 - *2024.02*: &nbsp;🎉 One co-author paper was accepted by **CVPR 2024**.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2509.21302)
+
+
+**Weilun Feng**, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+
+- *Arxiv Preprint*
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/quantsparse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](http://arxiv.org/abs/2509.23681)
+
+
+**Weilun Feng**, Chuanguang Yang, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+
+- *Arxiv Preprint*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/s2q_vdit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
