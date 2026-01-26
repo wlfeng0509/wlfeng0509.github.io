@@ -82,7 +82,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2509.21302)
@@ -96,7 +96,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/quantsparse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/quantsparse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](http://arxiv.org/abs/2509.23681)
