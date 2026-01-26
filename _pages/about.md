@@ -71,6 +71,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Two first-author papers and one co-auther paper were accepted by **ICLR 2026**.
 - *2025.09*: &nbsp;🎉 One first-author paper was accepted by **NeurIPS 2025**.
 - *2025.07*: &nbsp;🎉 One co-author paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
 - *2025.05*: &nbsp;🎉 One first-author paper and one co-author paper were accepted by **ICML 2025**.
@@ -89,7 +90,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 **Weilun Feng**, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
-- *Arxiv Preprint*
+- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred"></span>
 
 </div>
 </div>
@@ -103,7 +104,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 **Weilun Feng**, Chuanguang Yang, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
-- *Arxiv Preprint*
+- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred"></span>
 
 </div>
 </div>
