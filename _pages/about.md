@@ -82,7 +82,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/fastsam3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Fast-SAM3D: 3Dfy Anything in Images but Faster](https://arxiv.org/abs/2602.05293)
@@ -96,7 +96,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/worldcache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](https://arxiv.org/abs/2603.06331)
