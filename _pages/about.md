@@ -82,6 +82,34 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Fast-SAM3D: 3Dfy Anything in Images but Faster](https://arxiv.org/abs/2602.05293)
+
+
+**Weilun Feng**, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+
+- *Arxiv Preprint* <span class="rucred"></span>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](https://arxiv.org/abs/2603.06331)
+
+
+**Weilun Feng**, Guoxin Fan, Haotong Qin, Chuanguang Yang, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu
+
+- *Arxiv Preprint* <span class="rucred"></span>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/quantvggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -90,7 +118,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 **Weilun Feng**, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
-- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred"></span>
+- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred">Poster</span>
 
 </div>
 </div>
@@ -104,7 +132,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 **Weilun Feng**, Chuanguang Yang, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
-- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred"></span>
+- *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred">Poster</span>
 
 </div>
 </div>
