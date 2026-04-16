@@ -65,7 +65,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Weilun Feng. I am currently a **master** student at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/) (2024.9 -- now). I obtained my B.E. degree from Shen Yuan Honors College, Beihang University (2020.9 -- 2024.7).
+Hi, I am Weilun Feng. I am currently a **Ph.D.** student at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/) (2024.9 -- now). I obtained my B.E. degree from Shen Yuan Honors College, Beihang University (2020.9 -- 2024.7).
 
 My research interests focus on **efficient machine learning**. Specifically, I focus on deep model compression (e.g., binarization, quantization, and distillation), efficient generative models (e.g., efficient large language models and diffusion models). 
 
@@ -254,6 +254,7 @@ Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
 
 
 # 🎖 Honors and Awards
+- *2025.12*: &nbsp;🎖 2025 National Scholarship
 - *2025.05*: &nbsp;💰 E Fund Financial Technology Freshmen Scholarship （易方达金融科技新生奖学金）
 - *2024.07*: &nbsp;🎖 Outstanding graduates of Beihang University
 
@@ -269,6 +270,10 @@ Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
 
 
 # 💼 Services
-- Computer Vision and Pattern Recognition (CVPR) 2026 Reviewer
-- International Conference on Learning Representations (ICLR) 2026 Reviewer
-
+Reviewer
+- Computer Vision and Pattern Recognition (CVPR), 2026
+- International Conference on Learning Representations (ICLR), 2026
+- International Conference on Machine Learning (ICML), 2026
+- Conference on Neural Information Processing Systems (NeurIPS), 2026
+- European Conference on Computer Vision (ECCV), 2026
+- ACM International Conference on Multimedia (ACM MM), 2026
