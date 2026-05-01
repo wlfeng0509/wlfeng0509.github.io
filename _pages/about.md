@@ -31,6 +31,14 @@ redirect_from:
     font-weight: 600;
     margin-bottom: 5px;
   }
+  .author-legend {
+    font-size: 0.9em;
+    color: rgb(96, 96, 96);
+    margin: -0.5rem 0 1rem;
+  }
+  .paper-box-text sup {
+    font-weight: 700;
+  }
 </style>
 
 <style>
@@ -71,7 +79,8 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Two first-author papers and one co-auther paper were accepted by **ICLR 2026**.
+- *2026.05*: &nbsp;🎉 Two first-author papers were accepted by **ICML 2026**.
+- *2026.01*: &nbsp;🎉 Two first-author papers and one co-author paper were accepted by **ICLR 2026**.
 - *2025.09*: &nbsp;🎉 One first-author paper was accepted by **NeurIPS 2025**.
 - *2025.07*: &nbsp;🎉 One co-author paper about Traditional Chinese Medicinal Plant Dataset was accepted by **Scientific Data**.
 - *2025.05*: &nbsp;🎉 One first-author paper and one co-author paper were accepted by **ICML 2025**.
@@ -82,29 +91,31 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/fastsam3d.png' alt="sym" width="100%"></div></div>
+<p class="author-legend"><sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding author</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../images/fastsam3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Fast-SAM3D: 3Dfy Anything in Images but Faster](https://arxiv.org/abs/2602.05293)
 
 
-**Weilun Feng**, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+**Weilun Feng**<sup>&#42;</sup>, Mingqiang Wu<sup>&#42;</sup>, Zhiliang Chen, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An<sup>&dagger;</sup>, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
-- *Arxiv Preprint* <span class="rucred"></span>
+- *Accepted at Forty-third International Conference on Machine Learning (ICML, CCF-A) 2026* <span class="rucred">Poster</span>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/worldcache.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../images/worldcache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching](https://arxiv.org/abs/2603.06331)
 
 
-**Weilun Feng**, Guoxin Fan, Haotong Qin, Chuanguang Yang, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu
+**Weilun Feng**<sup>&#42;</sup>, Guoxin Fan<sup>&#42;</sup>, Haotong Qin<sup>&#42;</sup>, Chuanguang Yang<sup>&dagger;</sup>, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu
 
-- *Arxiv Preprint* <span class="rucred"></span>
+- *Accepted at Forty-third International Conference on Machine Learning (ICML, CCF-A) 2026* <span class="rucred">Poster</span>
 
 </div>
 </div>
@@ -116,7 +127,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 [Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2509.21302)
 
 
-**Weilun Feng**, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+**Weilun Feng**<sup>&#42;</sup>, Haotong Qin<sup>&#42;</sup>, Mingqiang Wu<sup>&#42;</sup>, Chuanguang Yang<sup>&dagger;</sup>, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
 - *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred">Poster</span>
 
@@ -130,7 +141,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 [QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](http://arxiv.org/abs/2509.23681)
 
 
-**Weilun Feng**, Chuanguang Yang, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
 
 - *Accepted at The Fourteenth International Conference on Learning Representations (ICLR) 2026* <span class="rucred">Poster</span>
 
@@ -143,7 +154,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
   
 [S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016)
 
-**Weilun Feng**, Haotong Qin, Chuanguang Yang, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An, Libo Huang, Michele Magno, Yongjun Xu
+**Weilun Feng**<sup>&#42;</sup>, Haotong Qin<sup>&#42;</sup>, Chuanguang Yang<sup>&dagger;</sup>, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Michele Magno, Yongjun Xu
 
 - *Accepted at Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2025* <span class="rucred">Poster</span>
 
@@ -156,7 +167,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
   
 [MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290)
 
-**Weilun Feng**, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
 
 - *Arxiv Preprint*
 
@@ -169,7 +180,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
   
 [TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition](https://www.nature.com/articles/s41597-025-05522-7)
 
-Yanling Zhang, Wanhui Sun, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng**, Wenjing Tang, Yongjun Xu
+Yanling Zhang<sup>&#42;</sup>, Wanhui Sun<sup>&#42;</sup>, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng**, Wenjing Tang<sup>&dagger;</sup>, Yongjun Xu<sup>&dagger;</sup>
 
 - *Accepted at Scientific Data* <span class="rucred">Journal</span>
 
@@ -182,7 +193,7 @@ Yanling Zhang, Wanhui Sun, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng
   
 [Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers](https://arxiv.org/abs/2505.22167)
 
-**Weilun Feng**, Chuanguang Yang, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno
 
 - *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
 
@@ -195,7 +206,7 @@ Yanling Zhang, Wanhui Sun, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng
   
 [Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning](https://openreview.net/forum?id=CuASYs6XZW)
 
-Xiangqi Li, Libo Huang, Zhulin An, **Weilun Feng**, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu
+Xiangqi Li<sup>&#42;</sup>, Libo Huang<sup>&#42;</sup>, Zhulin An<sup>&dagger;</sup>, **Weilun Feng**, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu
 
 - *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
 
@@ -208,7 +219,7 @@ Xiangqi Li, Libo Huang, Zhulin An, **Weilun Feng**, Chuanguang Yang, Boyu Diao, 
   
 [Multi-party Collaborative Attention Control for Image Customization](https://arxiv.org/abs/2505.01428)
 
-Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Yongjun Xu
+Han Yang, Chuanguang Yang<sup>&dagger;</sup>, Qiuli Wang, Zhulin An<sup>&dagger;</sup>, **Weilun Feng**, Libo Huang, Yongjun Xu
 
 - *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2025* <span class="rucred">Poster</span>
 
@@ -221,7 +232,7 @@ Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Y
   
 [MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models](https://arxiv.org/abs/2412.11549)
 
-**Weilun Feng**, Haotong Qin, Chuanguang Yang, Zhulin An, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno
+**Weilun Feng**<sup>&#42;</sup>, Haotong Qin<sup>&#42;</sup>, Chuanguang Yang<sup>&dagger;</sup>, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno
 
 - *Accepted at Proceedings of the AAAI Conference on Artificial Intelligence (AAAI, CCF-A) 2025* <span class="rucred">Oral</span>
 
@@ -233,7 +244,7 @@ Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Y
 
 [Relational Diffusion Distillation for Efficient Image Generation](https://arxiv.org/abs/2410.07679)
 
-**Weilun Feng**, Chuanguang Yang, Zhulin An, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu
 
 - *Accepted at Proceedings of the 32nd ACM international conference on multimedia (ACM MM, CCF-A) 2024* <span class="rucred">Oral</span>
 
@@ -245,7 +256,7 @@ Han Yang, Chuanguang Yang, Qiuli Wang, Zhulin An, **Weilun Feng**, Libo Huang, Y
 
 [Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector_CVPR_2024_paper.html)
 
-Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu
+Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu<sup>&dagger;</sup>
 
 - *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2024* <span class="rucred">Poster</span>
 
