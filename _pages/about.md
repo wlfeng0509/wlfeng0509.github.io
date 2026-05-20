@@ -93,6 +93,20 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 <p class="author-legend"><sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding author</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/echo_forcing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation](https://arxiv.org/abs/2605.16003v1)
+
+
+Mingqiang Wu<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Zhefeng Zhang, Haotong Qin, Yuqi Li, Guoxin Fan, Xiaokun Liu, Zhulin An<sup>&dagger;</sup>, Libo Huang, Yongjun Xu, Chuanguang Yang<sup>&dagger;</sup>
+
+- *Arxiv Preprint*
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='../images/fastsam3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -175,19 +189,6 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='../images/tcmp_300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition](https://www.nature.com/articles/s41597-025-05522-7)
-
-Yanling Zhang<sup>&#42;</sup>, Wanhui Sun<sup>&#42;</sup>, Chuanguang Yang, Libo Huang, Zhulin An, **Weilun Feng**, Wenjing Tang<sup>&dagger;</sup>, Yongjun Xu<sup>&dagger;</sup>
-
-- *Accepted at Scientific Data* <span class="rucred">Journal</span>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/q_vdit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -196,32 +197,6 @@ Yanling Zhang<sup>&#42;</sup>, Wanhui Sun<sup>&#42;</sup>, Chuanguang Yang, Libo
 **Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Xiangqi Li, Yu Wang, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno
 
 - *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3d_learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning](https://openreview.net/forum?id=CuASYs6XZW)
-
-Xiangqi Li<sup>&#42;</sup>, Libo Huang<sup>&#42;</sup>, Zhulin An<sup>&dagger;</sup>, **Weilun Feng**, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu
-
-- *Accepted at Forty-second International Conference on Machine Learning (ICML, CCF-A) 2025* <span class="rucred">Poster</span>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/mca_ctrl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Multi-party Collaborative Attention Control for Image Customization](https://arxiv.org/abs/2505.01428)
-
-Han Yang, Chuanguang Yang<sup>&dagger;</sup>, Qiuli Wang, Zhulin An<sup>&dagger;</sup>, **Weilun Feng**, Libo Huang, Yongjun Xu
-
-- *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2025* <span class="rucred">Poster</span>
 
 </div>
 </div>
