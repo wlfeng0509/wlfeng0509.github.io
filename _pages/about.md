@@ -94,6 +94,19 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 <p class="author-legend"><sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding author</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290)
+
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
+
+- *Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A)* <span class="rucred">Journal</span>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/echo_forcing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -172,19 +185,6 @@ Mingqiang Wu<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Zhefeng Zhang, Ha
 **Weilun Feng**<sup>&#42;</sup>, Haotong Qin<sup>&#42;</sup>, Chuanguang Yang<sup>&dagger;</sup>, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Michele Magno, Yongjun Xu
 
 - *Accepted at Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2025* <span class="rucred">Poster</span>
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290)
-
-**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
-
-- *Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A)* <span class="rucred">Journal</span>
 
 </div>
 </div>
