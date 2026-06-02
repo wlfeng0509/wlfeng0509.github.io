@@ -79,6 +79,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 One first-author paper was accepted by **TPAMI**.
 - *2026.05*: &nbsp;🎉 Two first-author papers were accepted by **ICML 2026**.
 - *2026.01*: &nbsp;🎉 Two first-author papers and one co-author paper were accepted by **ICLR 2026**.
 - *2025.09*: &nbsp;🎉 One first-author paper was accepted by **NeurIPS 2025**.
@@ -176,14 +177,14 @@ Mingqiang Wu<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Zhefeng Zhang, Ha
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models with Temporal Distillation](https://arxiv.org/abs/2507.04290)
 
 **Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An<sup>&dagger;</sup>, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang
 
-- *Arxiv Preprint*
+- *Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A)* <span class="rucred">Journal</span>
 
 </div>
 </div>
