@@ -227,19 +227,6 @@ Mingqiang Wu<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Zhefeng Zhang, Ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/reg_ptq.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector](https://openaccess.thecvf.com/content/CVPR2024/html/Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector_CVPR_2024_paper.html)
-
-Yifu Ding, **Weilun Feng**, Chuyan Chen, Jinyang Guo, Xianglong Liu<sup>&dagger;</sup>
-
-- *Accepted at Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A) 2024* <span class="rucred">Poster</span>
-
-</div>
-</div>
-
-
 # 🎖 Honors and Awards
 - *2025.12*: &nbsp;🎖 2025 National Scholarship
 - *2025.05*: &nbsp;💰 E Fund Financial Technology Freshmen Scholarship （易方达金融科技新生奖学金）
