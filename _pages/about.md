@@ -79,6 +79,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 One first-author paper was accepted by **TPAMI**.
 - *2026.05*: &nbsp;🎉 One first-author paper was accepted by **TPAMI**.
 - *2026.05*: &nbsp;🎉 Two first-author papers were accepted by **ICML 2026**.
 - *2026.01*: &nbsp;🎉 Two first-author papers and one co-author paper were accepted by **ICLR 2026**.
@@ -93,6 +94,19 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 # 📝 Publications
 
 <p class="author-legend"><sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding author</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/s2q_vdit_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[S$^2$Q-VDiT$^+$: Accurate Quantized Video Diffusion Transformer with Multi-Resolution Sampling and Structural Distillation](https://doi.org/10.1109/TPAMI.2026.3722360)
+
+**Weilun Feng**, Chuanguang Yang<sup>&dagger;</sup>, Haotong Qin, Yuqi Li, Mingqiang Wu, Guoxin Fan, Xiangqi Li, Zhulin An, Libo Huang, Boyu Diao, Renshuai Tao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Zhigang Zeng, Tingwen Huang, Yingli Tian
+
+- *Accepted at IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A)* <span class="rucred">Journal</span>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/mpq_dmv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
