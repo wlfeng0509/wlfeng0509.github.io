@@ -103,7 +103,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 Yipu Zhang<sup>&#42;</sup>, Jintao Cheng<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Jiehao Luo, Chuanguang Yang, Zhulin An, Yongjun Xu, Wei Zhang<sup>&dagger;</sup>
 
-- *Accepted at Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2026*
+- *Accepted at Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2026* <span class="rucred">Poster</span>
 
 </div>
 </div>
