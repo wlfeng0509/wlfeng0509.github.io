@@ -79,6 +79,7 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One co-first-author paper and one co-author paper were accepted by **NeurIPS 2026**.
 - *2026.08*: &nbsp;🎉 One first-author paper was accepted by **TPAMI**.
 - *2026.05*: &nbsp;🎉 One first-author paper was accepted by **TPAMI**.
 - *2026.05*: &nbsp;🎉 Two first-author papers were accepted by **ICML 2026**.
@@ -94,6 +95,19 @@ My research interests focus on **efficient machine learning**. Specifically, I f
 # 📝 Publications
 
 <p class="author-legend"><sup>&#42;</sup> Equal contribution &nbsp;&nbsp; <sup>&dagger;</sup> Corresponding author</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='../images/fgq.png' alt="Fisher-guided quantization framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer](https://arxiv.org/abs/2605.15828)
+
+Yipu Zhang<sup>&#42;</sup>, Jintao Cheng<sup>&#42;</sup>, **Weilun Feng**<sup>&#42;</sup>, Jiehao Luo, Chuanguang Yang, Zhulin An, Yongjun Xu, Wei Zhang<sup>&dagger;</sup>
+
+- *Accepted at Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A) 2026*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='../images/s2q_vdit_plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
